@@ -71,3 +71,4 @@ Query: `getGradeFromScore($score: Float!)`
 Returns letter grade (A, B, C, D, or F) based on numeric score input.
 
 
+ 
